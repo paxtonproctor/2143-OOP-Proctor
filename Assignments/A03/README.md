@@ -7,7 +7,7 @@
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   A03 | Main.cpp        | Main driver of my project that launches game.      |
+|   A03 | https://github.com/paxtonproctor/2143-OOP-Proctor/blob/main/Assignments/A03/main.cpp | Main driver of my project that launches game.      |
 
 ### Instruction
 
