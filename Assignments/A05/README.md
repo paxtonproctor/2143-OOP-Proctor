@@ -42,8 +42,35 @@
 > Example: friend ostream &operator<<(ostream &os, const CircularArrayQue &other);
 
 #### Inheritance
->
-#### Object
+> kinda like a "copy" Inheritance is useful in creating a class that has the same attributes as another class while keeping the other class original and without modification.
 
+#### Instance Variable
+> They are not static and they are a member variable that creates a separate copy for each object in a class.
+
+#### Member Variable
+> They static variables created inside a class either in the private section or public section.
 
 #### Method
+> It's the Member Functions inside a class
+
+#### Multiple Inheritance
+> It's where you derive more than one class
+
+#### Object
+> a object is a data type within a class
+> Example: a car is its own object and has its own attributes.
+
+#### Overloading
+> A method that lets you use the same functions or operators more than once but with different parameters.
+
+#### Polymorphism
+> A way to perform different task.
+
+#### Public / Private / Protected
+> Public section contains items that can be used by other classes. Private section contains items that can only be accessed through your class and not any other. Protected section can be accessed by other classes only when using the inheritance.
+
+#### Static
+> is a static member that is only initialized once.
+
+#### Virtual
+> a function that can be overridden inside a derived class.
