@@ -9,6 +9,6 @@
 |   A03   | https://github.com/paxtonproctor/2143-OOP-Proctor/blob/main/Assignments/A03/main.cpp | Comments |
 |   A04   | https://github.com/paxtonproctor/2143-OOP-Proctor/blob/main/Assignments/A04/Banner | Banner |
 |   A05  | https://github.com/paxtonproctor/2143-OOP-Proctor/blob/main/Assignments/A05/README.md | Vocab |
-|   1   | main.cpp | Main driver of my list program . |
-|   1   | main.cpp | Main driver of my list program . |
-|   1   | main.cpp | Main driver of my list program . |
+|   A06   | main.cpp | Main driver of my list program . |
+|   A07   | main.cpp | Main driver of my list program . |
+|   P01   | main.cpp | Main driver of my list program . |
