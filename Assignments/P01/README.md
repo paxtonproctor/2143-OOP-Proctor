@@ -1,7 +1,8 @@
 ### Paxton Proctor
 ### Description:
 # NOT DONE YET, THIS IS A ONGOING PROJECT
-#### This program is the start of a game that will be implementing object oriented Programming into it,
+## Currently still need to figure out how to add collision and make my collision object move.
+#### This program is the start of a game that will be implementing object oriented Programming into it.
 
 ### Files
 
