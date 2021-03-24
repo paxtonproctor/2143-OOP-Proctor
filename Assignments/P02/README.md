@@ -1,5 +1,6 @@
 ### Paxton Proctor
 ### Description:
+##Program is not done currently
 Using Graphiz to visualize a linked list of a binary tree
 should be able to put the output of your code into graphiz and draw nodes and edges as pleased.
 #### This program is the start of a game that will be implementing object oriented Programming into it.
