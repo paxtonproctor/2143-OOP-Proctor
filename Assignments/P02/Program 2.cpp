@@ -2,6 +2,7 @@
 #include <map>
 #include <string>
 #include <vector>
+#include <fstream>
 
 using namespace std;
 
@@ -10,7 +11,7 @@ struct Node{
     int data;
     struct Node* left;
     struct Node* right;
-private:
+protected:
     string id;
     string state;
     string team;
@@ -139,4 +140,5 @@ int main() {
   cout<<N1<<endl;
   cout<<N2<<endl;
   cout<<E1<<endl;
+  return 0;
 }
