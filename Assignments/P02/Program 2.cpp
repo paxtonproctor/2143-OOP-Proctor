@@ -19,7 +19,7 @@ public:
     Node(string i, string s, string t){
         id = i;
         state=s;
-        team=t;
+        team=t; 
     }
     friend Edge;
     friend ostream& operator<<(ostream& os, Node *other){
