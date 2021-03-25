@@ -1,5 +1,7 @@
 #include <iostream>
 #include <map>
+#include <string>
+#include <vector>
 
 using namespace std;
 
@@ -10,18 +12,18 @@ struct Node{
     struct Node* right;
 private:
     string id;
-    string label;
-    string color;
+    string state;
+    string team;
 public: 
     Node();
-    Node(string i, string l, string c){
+    Node(string i, string s, string t){
         id = i;
-        label=l;
-        color=c;
+        state=s;
+        team=t;
     }
     friend Edge;
     friend ostream& operator<<(ostream& os, Node *other){
-        return os <<other->id<< " [label="<<other->label<<" color="<<other->color<<"]";
+        return os <<other->id<< " [label="<<other->state<<" color="<<other->team<<"]";
     }
 };
 
