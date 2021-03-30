@@ -1,52 +1,127 @@
 digraph
+74
+AK Alaska
+AL Alabama
+AZ Arizona
+AR Arkansas
+CA California
+CO Colorado
+CT Connecticut
+DE Delaware
+FL Florida
+GA Georgia
+HI Hawaii
+ID Idaho
+IL Illinois
+IN Indiana
+IA Iowa
+KS Kansas
+KY Kentucky
+LA Louisiana
+ME Maine
+MD Maryland
+MA Massachusetts
+MI Michigan
+MN Minnesota
+MS Mississippi
+MO Missouri
+MT Montana
+NE Nebraska
+NV Nevada
+NH NewHampshire
+NJ NewJersey
+NM NewMexico 
+NY NewYork
+NC NorthCarolina
+ND NorthDakota
+OH Ohio
+OK Oklahoma
+OR Oregon
+PA Pennsylvania
+RI RhodeIsland
+SC SouthCarolina
+SD SouthDakota
+TN Tennessee
+TX Texas
+UT Utah
+VA Virginia
+VT Vermont
+WA Washington
+WV WestVirginia
+WI Wisconsin
+WY Wyoming
+01 Seahawks
+02 Saints
+03 Cardinals
+04 49ers
+05 Patriots
+06 Gaints
+07 Dolphins
+08 Falcons
+09 Bears
+10 Colts
+11 Chiefs
+12 Bengals
+13 Ravens
+14 Lions
+15 Bills
+16 Browns
+17 Cowboys
+18 Panthers
+19 Vikings
+20 Titans
+21 WashingtonFT
+22 Packers
+23 Steelers
+24 Broncos
 50
-Alaska Seahawks
-Alabama Saints
-Arkansas Cowboys
-Arizona Cardinals
-California 49ers
-Colorado Broncos
-Connecticut Patriots
-Delaware Gaints
-Florida Dolphins
-Georgia Falcons
-Hawaii 49ers
-Iowa Vikings
-Idaho Seahawks
-Illinois Bears
-Indiana Colts
-Kansas Chiefs
-Kentucky Bengals
-Louisiana Saints
-Massachusetts Patriots
-Maryland Ravens
-Maine Patriots
-Michigan Lions
-Minnesota Vikings
-Missouri Chiefs
-Mississippi Saints
-Montana Broncos
-NorthCarolina Panthers
-NorthDakota Vikings
-Nebraska Broncos
-NewHampshire Patriots
-NewJersey Gaints
-NewMexico Cowboys
-Nevada 49ers
-NewYork Bills
-Ohio Browns
-Oklahoma Cowboys
-Oregon Seahawks
-Pennsylvania Steelers
-RhodeIsland Patriots
-SouthCarolina Panthers
-SouthDakota Vikings
-Tennessee Titans
-Texas Cowboys
-Utah Broncos
-Virginia WashingtonFT 
-Vermont Patriots
-Washington Seahawks
-Wisconsin Packers
-WestVirginia Steelers
-Wyoming Broncos
+AK 01 25.07
+AL 02 21.06
+AR 17 20.30
+AZ 03 43.76
+CA 04 45.59
+CO 24 26.55
+CT 05 33.09
+DE 06 35.12
+FL 07 31.63
+GA 08 41.06
+HI 04 40.10
+IA 19 22.71
+ID 01 38.98
+IL 09 40.04
+IN 10 34.85
+KS 11 20.23
+KY 12 31.03
+LA 02 27.79
+MA 05 25.54
+MD 13 36.34
+ME 05 36.76
+MI 14 46.47
+MN 08 12.32
+MO 11 24.94
+MS 02 23.20
+MT 24 19.23
+NC 18 42.72
+ND 19 44.44
+NE 24 22.12
+NH 05 31.31
+NJ 06 20.10
+NM 17 39.10
+NV 04 39.43
+NY 15 41.28
+OH 16 50.97
+OK 17 19.75
+OR 01 18.08
+PA 23 25.58
+RI 05 35.35
+SC 18 19.09
+SD 19 31.00
+TN 20 32.98
+TX 17 33.69
+UT 24 32.01
+VA 21 23.58
+VT 05 25.32
+WA 01 42.76
+WI 22 29.35
+WV 23 39.03
+WY 24 22.22
